@@ -16,7 +16,7 @@ I am a junior Web-developer. I am 15 years old and I have been doing web develop
 
 ## Contact me
 - Telegram: [@nizhak2007](https://t.me/nizhak2007)
-- VK: [@nizhak2007](https://vk.com/nizhak2007)
+- VK: [@nizhak](https://vk.com/nizhak)
 - Website: [nizhak.ru](https://nizhak.ru)
 - Email: egor@nizhak.ru
 ***
