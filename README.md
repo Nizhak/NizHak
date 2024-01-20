@@ -1,7 +1,7 @@
 # Hi, I'm Egor. 
 
 ## About me ##
-I am a junior Web-developer. I am 15 years old and I have been doing web development for almost two years.  During this time I have successfully passed courses in "Moscow School of Programmers" and at the moment I am studying in "North-Caucasian Financial and Energy Technical College" on specialty "Developer of web and multimedia applications". But at the same time I try to study not only the educational program, but also other web technologies that interest me. My projects can be viewed in the repositories of this profile. 
+I am a junior Web-developer. I am 16 years old and I have been doing web development for almost two years.  During this time I have successfully passed courses in "Moscow School of Programmers" and at the moment I am studying in "North-Caucasian Financial and Energy Technical College" on specialty "Developer of web and multimedia applications". But at the same time I try to study not only the educational program, but also other web technologies that interest me. My projects can be viewed in the repositories of this profile. 
 ***
 
 ## My stack is as follows:
